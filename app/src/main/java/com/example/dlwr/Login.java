@@ -32,7 +32,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
 
     }
-
     @Override
     public void onClick(View v) {
         String cadenita=((Button) v).getText().toString();
